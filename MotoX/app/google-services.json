@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "149019719154",
+    "firebase_url": "https://motox-6d8b7.firebaseio.com",
+    "project_id": "motox-6d8b7",
+    "storage_bucket": "motox-6d8b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149019719154:android:259888b17800f15f",
+        "android_client_info": {
+          "package_name": "br.com.digitalhouse.motox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149019719154-fq54kfilpmc6cb1rfs6nfv4hrhprmun8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.digitalhouse.motox",
+            "certificate_hash": "6e205ec8bab6170cc3aacc71b5842a8156fc810e"
+          }
+        },
+        {
+          "client_id": "149019719154-tbm4gc253j6plmglfinm62p22l93etil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOvfrF44hsz3QBM7l-f-keSVE13bVFZfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149019719154-tbm4gc253j6plmglfinm62p22l93etil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
